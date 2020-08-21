@@ -1,0 +1,4 @@
+1. find
+2. ps -A
+3. crtl + c
+4. diff
